@@ -82,43 +82,23 @@
 
 # 🏆 Coding Profiles
 
-<table>
-<tr>
-<td align="center">
-<a href="https://leetcode.com/u/immati2609/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50"/><br>
-<b>LeetCode</b>
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://www.codechef.com/users/charan_2609">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" width="50"/><br>
-<b>CodeChef</b>
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://www.geeksforgeeks.org/profile/charan2609">
-<img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="50"/><br>
-<b>GeeksforGeeks</b>
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://www.hackerrank.com/profile/charan_2609">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50"/><br>
-<b>HackerRank</b>
-</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://leetcode.com/u/immati2609/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/charan_2609" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/charan2609" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/charan_2609" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50"/>
+  </a>
+</p>
 
 ---
 
