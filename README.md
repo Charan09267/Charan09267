@@ -87,9 +87,9 @@
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/charan_2609" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" width="50"/>
-  </a>
+  <a href="https://www.codechef.com/users/charan_2609">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="50"/>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/charan2609" target="_blank">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="50"/>
