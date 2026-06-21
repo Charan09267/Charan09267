@@ -46,10 +46,14 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud, DevOps & Messaging
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="48" alt="Kafka"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="48" alt="RabbitMQ"/>
 </p>
 
 ## 🔧 Tools
