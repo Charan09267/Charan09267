@@ -65,16 +65,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Charan09267&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan09267&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -114,9 +104,6 @@ Real-time quiz platform built with Spring Boot and React featuring authenticatio
 
 ## 💳 Smart Wallet System
 Full-stack finance management application with secure APIs, transaction management, and Spring Security.
-
-## 🔐 Authify
-Authentication and authorization system built with Spring Boot, JWT, and MySQL.
 
 ## 🎓 Course Enrollment & Lecture Management System
 A platform for managing courses, lectures, and enrollments with optimized backend APIs.
