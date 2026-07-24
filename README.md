@@ -128,6 +128,12 @@ A platform for managing courses, lectures, and enrollments with optimized backen
 
 ---
 
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
+</p>
+
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
