@@ -42,8 +42,9 @@
 
 ## 🗄️ Database
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
 ## ☁️ Cloud, DevOps & Messaging
