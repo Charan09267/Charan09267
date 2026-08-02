@@ -86,7 +86,7 @@
   <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="50"/>
 </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/charan2609" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/charan2609?tab=activity" target="_blank">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
