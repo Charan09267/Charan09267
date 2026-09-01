@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **QuizArena**
-- 🌱 Currently learning **Advanced System Design, Docker, Redis, Kafka, and AWS**
+- 🔭 Currently working on **EduPilotAI**
+- 🌱 Currently learning **AI Integration, Advanced System Design, Docker, Kafka, and AWS**
 - 👯 Looking to collaborate on **Spring Boot and Full-Stack projects**
 - 💬 Ask me about **Java, Spring Boot, Spring Security, React, DSA, and System Design**
 - 📫 Reach me at **charanimmati5@gmail.com**
@@ -22,47 +22,17 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages: <img src="https://skillicons.dev/icons?i=java,js,python,c" height="40" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
-</p>
+### ⚙️ Backend Development: <img src="https://skillicons.dev/icons?i=spring,maven" height="40" />
 
-## ⚙️ Backend Development
+### 🎨 Frontend Development: <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" height="40" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
+### 🗄️ Database: <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" height="40" />
 
-## 🎨 Frontend Development
+### ☁️ Cloud, DevOps & Messaging: <img src="https://skillicons.dev/icons?i=docker" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
-</p>
-
-## 🗄️ Database
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-</p>
-
-## ☁️ Cloud, DevOps & Messaging
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="48" alt="Kafka"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="48" alt="RabbitMQ"/>
-</p>
-
-## 🔧 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-</p>
-
+### 🔧 Tools: <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" height="40" />
 ---
 
 ---
@@ -99,14 +69,17 @@
 
 # 🚀 Featured Projects
 
+## 🤖 EduPilotAI
+AI-powered learning and career preparation platform that provides personalized learning roadmaps, AI-generated mock interviews and assessments, skill-gap analysis, project recommendations, and progress tracking.
+
 ## 🧠 QuizArena
-Real-time quiz platform built with Spring Boot and React featuring authentication, quiz sessions, and question management.
+Real-time contest and quiz platform built with Spring Boot and React, featuring microservices architecture, JWT authentication, scheduled contests, automated evaluation using Kafka, and support for 1,000+ concurrent participants.
 
 ## 💳 Smart Wallet System
-Full-stack finance management application with secure APIs, transaction management, and Spring Security.
+Full-stack digital wallet application with secure authentication, transaction management, idempotency, scheduled payments, and reliable asynchronous payment processing.
 
 ## 🎓 Course Enrollment & Lecture Management System
-A platform for managing courses, lectures, and enrollments with optimized backend APIs.
+Platform for managing courses, lectures, and enrollments with optimized backend APIs and efficient course management workflows.
 
 ---
 
