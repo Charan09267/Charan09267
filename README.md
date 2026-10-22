@@ -97,6 +97,10 @@ Platform for managing courses, lectures, and enrollments with optimized backend 
 <a href="mailto:charanimmati5@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<a href="https://instagram.com/YOUR_USERNAME](https://www.instagram.com/charan_immati/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+</a>
 </p>
 
 ---
