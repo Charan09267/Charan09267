@@ -90,7 +90,7 @@ Platform for managing courses, lectures, and enrollments with optimized backend 
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/charan-immati-8a69b5372/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -98,9 +98,10 @@ Platform for managing courses, lectures, and enrollments with optimized backend 
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME](https://www.instagram.com/charan_immati/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
+<a href="https://www.instagram.com/charan_immati/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="48" height="48" alt="Instagram" />
+  </a>
 </p>
 
 ---
