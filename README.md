@@ -22,7 +22,7 @@
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages: <img src="https://skillicons.dev/icons?i=java,js,python,c" height="40" />
+### 💻 Programming Languages: <img src="https://skillicons.dev/icons?i=java,js,c" height="40" />
 
 ### ⚙️ Backend Development: <img src="https://skillicons.dev/icons?i=spring,maven" height="40" />
 
